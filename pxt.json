@@ -1,0 +1,23 @@
+{
+    "name": "Testerei2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-dht11": "github:mkleinsb/pxt-dht11#v0.0.3",
+        "pxt-esp8266_thingspeak": "github:alankrantas/pxt-esp8266_thingspeak#v0.0.3",
+        "pxt-calliope-esp": "github:mkleinsb/pxt-calliope-esp#v0.0.4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
