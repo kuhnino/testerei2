@@ -1,5 +1,5 @@
 {
-    "name": "Hygrometer10",
+    "name": "HygrometerA",
     "description": "",
     "dependencies": {
         "core": "*",
